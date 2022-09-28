@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm George</h1>
+<h1 align="center">Hello there! I'm George</h1>
 <h3 align="center">A passionate Full Stack Developer from Bristol.</h3>
 
 - 🌱 I’m currently learning **at iO Academy in Bath**
 
-- 📫 How to reach me **georgedoakley@gmail.com**
+- 📫 You can reach me at **georgedoakley@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
