@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! I'm George</h1>
 <h3 align="center">A passionate Full Stack Developer from Bristol.</h3>
 
-- 🌱 I’m currently learning **at iO Academy in Bath**
+- 🌱 I've recently graduated as a Full-Stack Developer from **iO Academy in Bath**
 
 - 📫 You can reach me at **georgedoakley@gmail.com**
 
